@@ -1,0 +1,5 @@
+venv/
+
+pygame-env/
+
+.DS_Store
